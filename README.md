@@ -57,3 +57,4 @@ Do you want this editor to be in your native language? You are free to create a 
 ## License
 
 This project is released under the MIT license.
+ 
