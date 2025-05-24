@@ -12,7 +12,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- Configuración SonarCloud - REEMPLAZA CON TUS VALORES -->
-		<sonar.organization>https://sonarcloud.io/summary/overall?id=julen03_i18n-editor2&branch=master</sonar.organization>
+		<sonar.organization>https://sonarcloud.io/summary/overall?id=julen03_i18n-editor2&amp;branch=master</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 		<sonar.sources>src/main/java</sonar.sources>
